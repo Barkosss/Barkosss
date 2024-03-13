@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently studying on UrFU, Mathematics and Computer Science (1st year Bachelor's degree, 2023)
-🌱 I’m currently learning C++, Java
+🔭 I’m currently studying on UrFU, Mathematics and Computer Science (1st year Bachelor's degree, 2023)\n
+🌱 I’m currently learning C++, Java\n
 😄 Pronouns: He/Him
 
 <!--
