@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently studying on UrFU, Mathematics and Computer Science (1st year Bachelor's degree, 2023)
+🌱 I’m currently learning C++, Java
+😄 Pronouns: He/Him
+
 <!--
 **Barkosss/Barkosss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
