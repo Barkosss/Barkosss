@@ -1,5 +1,7 @@
 ## About Me:
-- I’m currently learning C++, Java, Linux<br> - I am in the 1st year of my Bachelor's degree in Mathematics and Mechanics (MathMech)<br> - Photography lover
+- I’m currently learning C++, Java, Linux
+- I am in the 1st year of my Bachelor's degree in Mathematics and Mechanics (MathMech)
+- Photography lover
 
 
 ## Socials:
