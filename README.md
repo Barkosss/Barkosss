@@ -3,10 +3,6 @@
 - I am in the 1st year of my Bachelor's degree in Mathematics and Mechanics (MathMech)
 - Photography lover
 
-
-## Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Barkos_Racing101) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13663994) 
-
 ## Projects
 `Nothing`
 
