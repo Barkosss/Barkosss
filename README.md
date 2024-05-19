@@ -4,6 +4,12 @@
 - Photography lover
 
 ## Projects
+- Voice Assistant
+    - [GitHub]()
+
+- JavaScript interpreter for C++
+    - [GitHub]()
+
 - GILD
     - *website*
     - *discord server*
