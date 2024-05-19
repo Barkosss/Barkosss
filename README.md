@@ -5,10 +5,10 @@
 
 ## Projects
 - Voice Assistant
-    - [GitHub]()
+    - [GitHub](https://github.com/Barkosss/Voice_Assistant)
 
-- JavaScript interpreter for C++
-    - [GitHub]()
+- C++ Interpreter in JavaScript
+    - [GitHub](https://github.com/Barkosss/Interpreter-CPP)
 
 - GILD
     - *website*
