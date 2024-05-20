@@ -11,7 +11,6 @@
     - [GitHub](https://github.com/Barkosss/Interpreter-CPP)
 
 - GILD
-    - [GitHub](https://github.com/Barkosss/GILD)
     - *website*
     - [Discord](https://discord.gg/DvZfUpUu2C)
 
