@@ -10,6 +10,9 @@
 - C++ Interpreter in JavaScript
     - [GitHub](https://github.com/Barkosss/Interpreter-CPP)
 
+- The CScript programming language
+    - [GitHub](https://github.com/Barkosss/CScript)
+
 - GILD
     - *website*
     - *Discord*
