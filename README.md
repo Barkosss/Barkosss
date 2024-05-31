@@ -14,7 +14,7 @@
     - [GitHub](https://github.com/Barkosss/CScript)
 
 - GILD
-    - *website*
+    - *Website*
     - *Discord*
 
 ## Tech Stack:
