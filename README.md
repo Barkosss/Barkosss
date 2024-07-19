@@ -16,6 +16,7 @@
 - GILD
     - https://gild.su
     - https://discord.gild.su
+    - [GILD Backend](https://github.com/Barkosss/GILD-backend)
 
 
 ## Tech Stack:
