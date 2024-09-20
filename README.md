@@ -4,19 +4,8 @@
 - Photography lover
 
 ## Projects
-- Voice Assistant
-    - [GitHub](https://github.com/Barkosss/Voice_Assistant)
-
 - C++ Interpreter in JavaScript
     - [GitHub](https://github.com/Barkosss/Interpreter-CPP)
-
-- The CScript programming language
-    - [GitHub](https://github.com/Barkosss/CScript)
-
-- GILD
-    - https://gild.su
-    - https://discord.gild.su
-    - [GILD Backend](https://github.com/Barkosss/GILD-backend)
 
 
 ## Tech Stack:
