@@ -4,7 +4,7 @@
 - Photography lover
 
 ## Projects
-| Название | Стэк | Описание |
+| Name | Stack | Description (EN) |
 |-------------|-------------|-------------|
 <!--| [Interp4CPP](https://github.com/Barkosss/Interp4CPP) | JavaScript | Интерпретатор на JavaScript для языка C++ |-->
 
