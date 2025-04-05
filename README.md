@@ -4,8 +4,10 @@
 - Photography lover
 
 ## Projects
-- C++ Interpreter in JavaScript
-    - [GitHub](https://github.com/Barkosss/Interp4CPP)
+| Название | Стэк | Описание |
+|-------------|-------------|-------------|
+<!--| [Interp4CPP](https://github.com/Barkosss/Interp4CPP) | JavaScript | Интерпретатор на JavaScript для языка C++ |-->
+
 
 
 ## Tech Stack:
